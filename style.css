@@ -1,0 +1,252 @@
+*{
+    margin:0;
+    padding: 0;
+    font-family: 'Outfit', sans-serif;
+}
+
+.primeira-caixa .c-grandao{
+    margin: -230px 0px 130px 45% ;
+
+}
+
+
+.primeira-caixa h1{
+    text-align: center;
+    margin-top: -100px;
+    margin-bottom: 120px;
+    color: hsl(210, 10%, 33%);
+    letter-spacing: 1.5px;
+}
+
+
+.primeira-caixa p{
+    margin-top: -100px;
+    margin-bottom: 70px;
+    text-align: center;
+   color:  hsl(201, 11%, 66%);
+
+}
+
+
+.primeira-caixa .btn-azul{
+    margin: -30px 0px 80px 3%;
+    text-align: center;
+    width: 200px;
+    height: 35px;
+    border-radius: 15px;
+    background-color: hsl(233, 100%, 69%);
+    border: none;
+    color: white;
+    box-shadow: 2px 2px 3px hsl(233, 100%, 69%);
+    
+}
+
+
+.primeira-caixa .btn-verde{
+    margin: -30px 0px 80px 34%;
+    text-align: center;
+    width: 200px;
+    height: 35px;
+    border-radius: 15px;
+    background-color:  hsl(171, 66%, 44%);
+    border: none;
+    color: white;
+    box-shadow: 2px 2px 3px hsl(171, 66%, 44%);
+}
+
+
+.segunda-caixa h2 {
+    text-align: center;
+    color: hsl(210, 10%, 33%);
+    margin: 30px 0px 0px 0px ;
+}
+    
+
+.segunda-caixa p{
+    text-align: center;
+    color: hsl(201, 11%, 66%);
+margin: 20px 0px 90px 0px;
+}
+
+.terceira-caixa h2{
+    margin: 0px 0px 10px 0px;
+    color: hsl(210, 10%, 33%);
+}
+
+.terceira-caixa p{
+    color: hsl(201, 11%, 66%);
+}
+.terceira-caixa .sub-terceiraCaixa{
+    margin: -34% 0px 80px 58%;
+}
+
+.terceira-caixa .sub2-terceiraCaixa{
+    margin: 0px 0px 80px 58%;
+}
+
+.terceira-caixa .sub3-terceiraCaixa{
+    margin: 0px 0px 80px 58%;
+}
+
+.quarta-caixa h1 {
+    text-align: center;
+    margin: 20% 0px 40px 0px;
+    color: hsl(210, 10%, 33%);
+}
+
+.quarta-caixa p{
+    text-align: center;
+    color: hsl(201, 11%, 66%);
+    margin: 0px 0px 110px;
+}
+
+.quarta-caixa img{
+    margin: 0px 0px 0px 20%;
+}
+
+.quinta-caixa{
+    margin: 90px 0px 0px 0px;
+}
+.quinta-caixa h1{
+text-align: center;
+color:hsl(210, 10%, 33%);
+}
+
+.quinta-caixa .p1{
+text-align: center;
+color:hsl(201, 11%, 66%) ;
+margin: 30px 0px 50px 0px;
+}
+
+.sub3-quintaCaixa, .sub-quintaCaixa, .sub2-quintaCaixa{
+text-align: center;
+margin: 30px 0px 70px 0px;
+
+}
+
+
+#quinta-principal{
+    display: flex;
+    gap: 80px;
+    margin: 0px 0px 0px 60px;
+}
+
+.quinta-caixa h2{
+    margin: 0px 0px 15px 0px;
+    color: hsl(210, 10%, 33%);
+}
+
+.quinta-caixa p{
+color:hsl(201, 11%, 66%) ;
+}
+
+
+.logos{
+    margin: 50px 0px 90px 60px;
+    display: flex;
+    gap: 100px;
+}
+
+
+.sexta-caixa h1{
+text-align: center;
+margin: 170px 0px 30px 0px;
+color: hsl(210, 10%, 33%);
+
+}
+
+.sexta-caixa p{
+    text-align: center;
+    margin: 0px 0px 50px 0px;
+    color:hsl(201, 11%, 66%) ;
+}
+
+
+.sexta-caixa .btn-azull{
+    margin: -30px 0px 80px 3%;
+    text-align: center;
+    width: 200px;
+    height: 35px;
+    border-radius: 15px;
+    background-color: hsl(233, 100%, 69%);
+    border: none;
+    color: white;
+    box-shadow: 2px 2px 3px hsl(233, 100%, 69%);
+    
+}
+
+
+.sexta-caixa .btn-verdee{
+    margin: -30px 0px 80px 34%;
+    text-align: center;
+    width: 200px;
+    height: 35px;
+    border-radius: 15px;
+    background-color:  hsl(171, 66%, 44%);
+    border: none;
+    color: white;
+    box-shadow: 2px 2px 3px hsl(171, 66%, 44%);
+}
+
+
+.div-footer{
+    background-color: rgba(237, 237, 237, 0.9) ;
+    height: 100px;
+}
+
+.imgfooter{
+    display: flex;
+    gap: 52px;
+    margin-left: 170px;
+    margin-top: -50px;
+}
+
+.footltr{
+    margin-top: 15px;
+    margin-left: 170px;
+    display: flex;
+    gap: 30px;
+}
+
+.miniC{
+    margin-top: 30px;
+    width: 42px;
+    margin-left: 90px;
+}
+
+.social-face{
+    margin-left: 1050px;
+    margin-top: -30px;
+}
+
+.social-twt{
+    margin-left: 1100px;
+    margin-top: -26px;
+}
+
+.social-insta{
+    margin-left: 1150px;
+    margin-top: -26px;
+}
+
+.social-face path:hover{
+    fill: hsl(171, 66%, 44%);
+    animation-delay: 0.5s;
+    transition-duration: 0.3s;
+}
+
+.social-twt path:hover{
+    fill: hsl(171, 66%, 44%);
+    animation-delay: 0.5s;
+    transition-duration: 0.3s;
+}
+
+.social-insta path:hover{
+    fill: hsl(171, 66%, 44%);
+    animation-delay: 0.5s;
+    transition-duration: 0.3s;
+}
+
+.attribution{
+    background-color: rgba(237, 237, 237, 0.9);
+}
